@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058363811358",
+    "firebase_url": "https://stainedmall.firebaseio.com",
+    "project_id": "stainedmall",
+    "storage_bucket": "stainedmall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058363811358:android:c5519a2f17bda12d0ef00f",
+        "android_client_info": {
+          "package_name": "com.pinkstain.stainedmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058363811358-o98aj8b5g59guhg1v31m7l6mpda11llg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinkstain.stainedmall",
+            "certificate_hash": "7721e3a836a0ac2a683fa6f8d524a04e9a275a03"
+          }
+        },
+        {
+          "client_id": "1058363811358-anf90h928lm8d3e4gsaon19m4rom0e4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaHrHs-kY1MDJJha4hs35M5F6q2Y0sMQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058363811358-anf90h928lm8d3e4gsaon19m4rom0e4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

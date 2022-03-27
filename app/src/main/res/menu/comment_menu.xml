@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/post_comment"
+        android:title="@string/post_comment"
+        app:showAsAction="always" />
+    <item android:title="Item" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/myEditText"
+        android:background="#000000" />
+</menu>

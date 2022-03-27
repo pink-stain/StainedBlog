@@ -1,0 +1,67 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Stained Blog</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">login</string>
+    <string name="terms">By signing up you agree to the\n terms and conditions.</string>
+    <string name="title_activity_login">log in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (Atleast 8 characters)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="forgot_password">"Forgot Password?"</string>
+    <string name="no_account">"Have no account?"</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="have_account">"Already have account?"</string>
+    <string name="forgot">"Forgot Password?"</string>
+    <string name="enter">"Enter ID below and we will send you a reset link"</string>
+    <string name="go_back">Back"</string>
+    <string name="sent">Link Successfully sent! Check your Email"</string>
+    <string name="caption">This is an example of a caption"</string>
+    <string name="name">Tawonga Kasambala"</string>
+    <string name="activity">Activity"</string>
+    <string name="profile">Profile"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="setup_name">Full Name</string>
+    <string name="save">Save</string>
+    <string name="plus">+</string>
+    <string name="share">Share</string>
+    <string name="write_caption">Write a caption...</string>
+    <string name="new_post_title">New Post</string>
+    <string name="number_of_likes">0</string>
+    <string name="number_of_comments">0</string>
+    <string name="home">Home</string>
+    <string name="notifications">Notifications</string>
+    <string name="me">me</string>
+    <string name="posted_time">00:00</string>
+    <string name="stained_blog">STAINED BLOG</string>
+    <string name="username">User name</string>
+    <string name="post_comment">Post</string>
+    <string name="add_a_comment">Add a comment</string>
+    <string name="comments_header">Comments</string>
+    <string name="now">now</string>
+    <string name="reply">Reply</string>
+    <string name="view_reply">View Replies</string>
+    <string name="posts">Posts</string>
+    <string name="edit_profile">Edit Profile</string>
+
+</resources>
